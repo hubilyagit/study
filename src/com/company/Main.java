@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello git!");
         System.out.println("Try save in new branch");
+        System.out.println("in new branch added this");
 
     }
 }
